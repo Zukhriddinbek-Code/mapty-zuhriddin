@@ -323,6 +323,8 @@ class App {
     localStorage.removeItem('workouts');
     location.reload();
     console.log('hey');
+    console.log('2');
+    console.log('3232 3');
   }
 }
 
